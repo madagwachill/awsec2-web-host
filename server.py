@@ -1,5 +1,5 @@
-from flask import Flask, render_template, request, redirect, url_for
-import requests
+from flask import Flask, request, render_template, redirect, url_for
+import request
 
 app = Flask (__name__)
 
