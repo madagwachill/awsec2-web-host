@@ -4,7 +4,7 @@ app = Flask (__name__)
 
 @app.route('/')
 def home():
-    return "WelCome Home"
+    return render_template('index.html')
 
 @app.route('/save_data', methods = ["GET"])
 def save_data():

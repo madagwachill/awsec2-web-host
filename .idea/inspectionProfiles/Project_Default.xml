@@ -1,0 +1,11 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="EditorConfigCharClassLetterRedundancy" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigDeprecatedDescriptor" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigEmptyHeader" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigEmptySection" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigHeaderUniqueness" enabled="true" level="TYPO" enabled_by_default="true" />
+    <inspection_tool class="EditorConfigPatternRedundancy" enabled="true" level="TYPO" enabled_by_default="true" />
+  </profile>
+</component>
