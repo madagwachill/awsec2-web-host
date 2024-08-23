@@ -6,7 +6,7 @@ app = Flask (__name__)
 def home():
     return render_template('index.html')
 
-app.route('/save_data', methods = ["GET"])
+@app.route('/save_data', methods = ["GET"])
 def save_data():
     regno = request.args['regno']
     name= request.args['name']
